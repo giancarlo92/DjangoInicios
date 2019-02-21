@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"D:\Django\libro"
+$VIRTUAL_ENV = r"C:\Django\entorno\libro"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

@@ -5,4 +5,4 @@ from django.views.generic import (
 )
 
 class IndexView(TemplateView):
-    print('------------ prueba url-------------')
+    template_name = "home/index.html"

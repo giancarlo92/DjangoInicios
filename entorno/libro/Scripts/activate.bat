@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=D:\Django\libro"
+set "VIRTUAL_ENV=C:\Django\entorno\libro"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
